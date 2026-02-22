@@ -128,7 +128,3 @@ I am a passionate **Robotics Software Engineer** and **Full-Stack Engineer** wit
 </p>
 
 ---
-
-## 🎓 Education
-
-**B.Tech** — Vishnu Institute of Technology | *2018 – 2022*
