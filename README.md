@@ -7,37 +7,6 @@ I am a passionate **Robotics Software Engineer** and **Full-Stack Engineer** wit
 - 📞 Phone: +91 7981960932
 - 📧 Email: madhubabugopisetti27@gmail.com
 - 💼 LinkedIn: [madhubabu-gopisetti](https://linkedin.com/in/madhu-g-6524153b2/)
-- 🐙 GitHub: [madhubabu-gopisetti](https://github.com/madhubabu-gopisetti)
-
-## ⚡ Fun Fact:
-Why do robotics engineers make great programmers? **Because they're used to handling exceptions in the real world.**
-
----
-
-## 💼 Work Experience
-
-### **Full-Stack Software Engineer**
-**DBS Tech India, Hyderabad** | *July 2022 – Present*
-
-**Project: SDWT**
-- Stepped into undocumented legacy systems without KT, reverse-engineered architectures, and delivered reliable production enhancements independently.
-- Owned and upgraded multiple production-critical enterprise systems, executing major version migrations across **8+ React**, **4 Angular**, and **3 Node** applications.
-- Designed and maintained **Node.js** backend services and integration layers, improving API reliability and data flow consistency across distributed internal platforms.
-- Contributed to **20+ internal banking systems** while ensuring compliance, stability, and seamless cross-system integration.
-- Reviewed **300+ PRs**, resolved **150+ defects**, and executed **10+ CRs** while maintaining **96% uptime** during releases.
-- Implemented automation, scripting, and RPA workflows (including Python-based tooling) to eliminate repetitive operational tasks.
-
-**Project: UPI**
-- Worked on a high-availability **UPI payments platform** handling real-time financial transactions in a regulated banking environment.
-- Served as the sole developer for key modules — owning end-to-end delivery including design, development, automated testing, CI/CD pipelines, and production support.
-- Designed and maintained **Node.js** services connecting internal banking systems, NPCI interfaces, and downstream services.
-- Implemented validations, error handling, audit logging, and monitoring to ensure transactional integrity and regulatory compliance.
-
-**Project: TMOP**
-- Worked on a modular Angular-based platform allowing banking teams to onboard and operate independent widgets within a centralized system.
-- Delivered and productionized four banking widgets: **Counterparty Widget**, **SSI Widget**, **Dashboard Widget**, and **ANN/DSB Widget**.
-
----
 
 ## 🚀 Projects
 
