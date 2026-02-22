@@ -6,7 +6,7 @@ I am a passionate **Robotics Software Engineer** and **Full-Stack Engineer** wit
 ## 📫 Contact Information:
 - 📞 Phone: +91 7981960932
 - 📧 Email: madhubabugopisetti27@gmail.com
-- 💼 LinkedIn: [madhubabu-gopisetti](https://linkedin.com/in/madhubabu-gopisetti)
+- 💼 LinkedIn: [madhubabu-gopisetti](https://linkedin.com/in/madhu-g-6524153b2/)
 - 🐙 GitHub: [madhubabu-gopisetti](https://github.com/madhubabu-gopisetti)
 
 ## ⚡ Fun Fact:
