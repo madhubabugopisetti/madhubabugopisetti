@@ -1,6 +1,6 @@
 # Madhu Babu Gopisetti - Robotics & Full-Stack Software Engineer
 
-## 👨‍💻 About Me:
+## About Me:
 I am a passionate **Robotics Software Engineer** and **Full-Stack Engineer** with 4+ years of experience building production-grade systems in regulated, high-reliability environments. I specialize in autonomous mobile robots, robotic manipulators, multi-robot systems using ROS2, and end-to-end software development across frontend, backend, and AI/ML domains.
 
 ## 📫 Contact Information:
