@@ -61,7 +61,27 @@ I am a passionate **Robotics Software Engineer** and **Full-Stack Engineer** wit
 **[(Simulation-Based Autonomous Mobile Manipulation)](https://github.com/madhubabu-gopisetti)**
 - Integrated NEXUS-ADS and NEXUS-AGS into a single coordinated ROS2 platform using **Nav2** for mobile base autonomy and **ros2_control** for manipulator control.
 - Full mission pipeline: *navigate → align → deploy arm → pick object → navigate → place object.*
-
+  
+Technology Stack:
+<p align="left">
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Nav2-2E8B57?style=for-the-badge" alt="Nav2" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ros2__control-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ros2_control" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MoveIt-1E90FF?style=for-the-badge" alt="MoveIt" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge" alt="Gazebo" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/YOLO-00CCCC?style=for-the-badge" alt="YOLO" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SLAM_Toolbox-1E90FF?style=for-the-badge" alt="SLAM Toolbox" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</p>
 ---
 
 ## 🧰 Technologies & Tools
